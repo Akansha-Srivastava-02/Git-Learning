@@ -1,3 +1,4 @@
 this is my first file
 this is second line add to again make it modified
-test amend action to roll back comit
+test amend action to roll back commit
+update feature branch data while working
